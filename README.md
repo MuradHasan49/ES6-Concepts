@@ -15,3 +15,5 @@
 const { instructor: { social: { github } } } = course;
 
 const { title: courseName, rating = 4.5 } = course;
+
+const allTopics = [...oldTopics, "React", "Node"];
