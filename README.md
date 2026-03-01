@@ -13,3 +13,5 @@
 জটিল অবজেক্টের ভেতর থেকে নির্দিষ্ট ডাটা বের করা।
 ```javascript
 const { instructor: { social: { github } } } = course;
+
+const { title: courseName, rating = 4.5 } = course;
