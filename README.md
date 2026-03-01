@@ -37,3 +37,6 @@ const { instructor: { social: { github } } } = course;
 const { title: courseName, rating = 4.5 } = course;
 
 const allTopics = [...oldTopics, "React", "Node"];
+
+
+git clone [https://github.com/MuradHasan49/ES6-Concepts.git](https://github.com/MuradHasan49/ES6-Concepts.git)
